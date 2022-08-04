@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Belajar Back End",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "Kerjakan tugas",
+      "status": false
+    },
+    {
+      "task": "Explore REST API",
+      "status": true,
+      "id": 3
+    }
+  ]
+}
